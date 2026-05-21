@@ -4,16 +4,14 @@ Pequeño proyecto demostrativo para aprender a usar los diferentes **layouts (di
 
 ## ¿Qué ejemplos incluye?
 
+- **`setStyle`**: Cambia los estilos con codigo CSS, como el color de los botones o el estilo de letra 
 - **`VBox` y `HBox`**: Muestra botones organizados en vertical y horizontal.
-- **`BorderPane`**: Coloca botones en las posiciones superior (norte), inferior (sur), izquierda (oeste), derecha (este) y central (centro).
-- **`GridPane`**: Organiza botones en una cuadrícula de filas y columnas (como un tablero).
-- Todos los botones tienen eventos que muestran mensajes en la consola o alertas emergentes.
+- **`BorderPane`**: Coloca botones en forma de cuadricula.
 
 ## ¿Cómo funciona?
 
-1. Al ejecutar cada ejemplo, se abre una ventana con diferentes botones.
+1. Al ejecutar el programa, se abre una ventana con diferentes botones.
 2. Cada botón está colocado en una posición específica según el layout elegido.
-3. Al hacer clic en un botón, se ejecuta una acción (por ejemplo, imprimir un mensaje o mostrar una alerta).
 
 ## Requisitos
 
